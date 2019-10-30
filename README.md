@@ -1,4 +1,3 @@
-我的python work
-學校上課作品
+my work python in NCCU
 
      
